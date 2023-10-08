@@ -1,0 +1,13 @@
+.Show {
+    position: relative;
+    top: 120px;
+    margin: 0 20px;
+    height: 200px;
+    background: url(https://cf.shopee.vn/file/vn-50009109-84b6dbb942b411b06e260b2534a52ab1_xxhdpi);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 10px;
+
+
+}

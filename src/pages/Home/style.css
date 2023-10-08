@@ -1,0 +1,16 @@
+.contact {
+    width: 70px;
+    position: fixed;
+    height: 70px;
+    right: 20px;
+    top: 80%;
+    border-radius: 100%;
+    background: url(https://th.bing.com/th/id/OIP.FGtpmST04iVlqegsGznM5AHaHe?w=196&h=198&c=7&r=0&o=5&pid=1.7)  no-repeat ;
+    background-size: 50px;
+    background-position: center;
+    
+}
+.contact:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}
